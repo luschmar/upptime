@@ -13,6 +13,7 @@ sites:
     url: https://thissitedoesnotexist.koj.co
 
 status-website:
+  baseUrl: /upptime 
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
