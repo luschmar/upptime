@@ -10,15 +10,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 444,
-    "timeDay": 444,
-    "timeWeek": 444,
-    "timeMonth": 444,
-    "timeYear": 444,
+    "time": 573,
+    "timeDay": 573,
+    "timeWeek": 573,
+    "timeMonth": 573,
+    "timeYear": 573,
     "dailyMinutesDown": {}
   },
   {
-    "name": "Client matrix.luschmar.ch",
+    "name": "Client - matrix.luschmar.ch",
     "url": "https://matrix.luschmar.ch/.well-known/matrix/client",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.luschmar.ch.ico",
     "slug": "client-matrix-luschmar-ch",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 117,
-    "timeDay": 117,
-    "timeWeek": 117,
-    "timeMonth": 117,
-    "timeYear": 117,
+    "time": 137,
+    "timeDay": 137,
+    "timeWeek": 137,
+    "timeMonth": 137,
+    "timeYear": 137,
     "dailyMinutesDown": {}
   }
 ]
