@@ -7,6 +7,8 @@ sites:
     url: https://matrix.luschmar.ch/.well-known/matrix/server
   - name: Client - matrix.luschmar.ch
     url: https://matrix.luschmar.ch/.well-known/matrix/client
+  - name: Traccar
+    url: https://traccar.luschmar.ch/api/server
 
 status-website:
   baseUrl: /upptime 
@@ -19,6 +21,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+workflowSchedule:
+  uptime: "*/5 7-21 * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
