@@ -18,7 +18,7 @@
 name: Uptime CI
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/5 7-21 * * *"
   repository_dispatch:
     types: [uptime]
   workflow_dispatch:
