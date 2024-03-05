@@ -54,17 +54,19 @@
     "url": "https://traccar.luschmar.ch/api/server",
     "icon": "https://icons.duckduckgo.com/ip3/traccar.luschmar.ch.ico",
     "slug": "traccar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 512,
-    "timeDay": 496,
-    "timeWeek": 479,
-    "timeMonth": 543,
-    "timeYear": 512,
-    "dailyMinutesDown": {}
+    "time": 567,
+    "timeDay": 1920,
+    "timeWeek": 837,
+    "timeMonth": 636,
+    "timeYear": 567,
+    "dailyMinutesDown": {
+      "2024-03-05": 0
+    }
   }
 ]
