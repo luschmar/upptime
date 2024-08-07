@@ -1,7 +1,7 @@
 url: https://matrix.luschmar.ch/.well-known/matrix/client
-status: down
-code: 502
-responseTime: 3093
-lastUpdated: 2024-08-06T23:09:48.672Z
+status: up
+code: 200
+responseTime: 115
+lastUpdated: 2024-08-07T07:15:27.869Z
 startTime: 2023-07-03T21:10:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
