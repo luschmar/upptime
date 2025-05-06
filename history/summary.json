@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.98%",
     "time": 639,
-    "timeDay": 583,
-    "timeWeek": 506,
-    "timeMonth": 483,
-    "timeYear": 679,
+    "timeDay": 488,
+    "timeWeek": 493,
+    "timeMonth": 480,
+    "timeYear": 678,
     "dailyMinutesDown": {
       "2025-03-16": 51,
       "2025-03-02": 122,
@@ -55,8 +55,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.98%",
     "time": 269,
-    "timeDay": 166,
-    "timeWeek": 126,
+    "timeDay": 132,
+    "timeWeek": 123,
     "timeMonth": 118,
     "timeYear": 313,
     "dailyMinutesDown": {
@@ -98,11 +98,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.21%",
-    "time": 908,
-    "timeDay": 1412,
-    "timeWeek": 640,
-    "timeMonth": 615,
-    "timeYear": 955,
+    "time": 909,
+    "timeDay": 934,
+    "timeWeek": 620,
+    "timeMonth": 610,
+    "timeYear": 953,
     "dailyMinutesDown": {
       "2025-03-16": 475,
       "2025-03-01": 708,
@@ -116,5 +116,23 @@
       "2024-10-15": 70,
       "2024-08-21": 23
     }
+  },
+  {
+    "name": "Blog",
+    "url": "https://blog.luschmar.ch",
+    "icon": "https://icons.duckduckgo.com/ip3/blog.luschmar.ch.ico",
+    "slug": "blog",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 400,
+    "timeDay": 400,
+    "timeWeek": 400,
+    "timeMonth": 400,
+    "timeYear": 400,
+    "dailyMinutesDown": {}
   }
 ]
