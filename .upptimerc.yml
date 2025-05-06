@@ -9,6 +9,8 @@ sites:
     url: https://matrix.luschmar.ch/.well-known/matrix/client
   - name: Traccar
     url: https://traccar.luschmar.ch/api/server
+  - name: Blog
+    url: https://blog.luschmar.ch
 
 status-website:
   baseUrl: /upptime 
