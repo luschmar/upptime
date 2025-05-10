@@ -1,7 +1,7 @@
 url: https://blog.luschmar.ch
-status: up
-code: 200
-responseTime: 393
-lastUpdated: 2025-05-10T07:17:32.333Z
+status: down
+code: 502
+responseTime: 3402
+lastUpdated: 2025-05-10T12:39:58.471Z
 startTime: 2025-05-06T11:06:13.160Z
 generator: Upptime <https://github.com/upptime/upptime>
