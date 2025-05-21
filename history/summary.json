@@ -11,8 +11,8 @@
     "uptimeMonth": "97.19%",
     "uptimeYear": "97.75%",
     "time": 667,
-    "timeDay": 1475,
-    "timeWeek": 846,
+    "timeDay": 1480,
+    "timeWeek": 814,
     "timeMonth": 904,
     "timeYear": 719,
     "dailyMinutesDown": {
@@ -44,8 +44,7 @@
       "2024-08-04": 435,
       "2024-08-03": 544,
       "2024-08-02": 653,
-      "2024-08-01": 51,
-      "2024-05-21": 477
+      "2024-08-01": 51
     }
   },
   {
@@ -60,8 +59,8 @@
     "uptimeMonth": "98.28%",
     "uptimeYear": "97.84%",
     "time": 310,
-    "timeDay": 1101,
-    "timeWeek": 672,
+    "timeDay": 1107,
+    "timeWeek": 669,
     "timeMonth": 646,
     "timeYear": 364,
     "dailyMinutesDown": {
@@ -91,8 +90,7 @@
       "2024-08-04": 435,
       "2024-08-03": 544,
       "2024-08-02": 653,
-      "2024-08-01": 51,
-      "2024-05-21": 476
+      "2024-08-01": 51
     }
   },
   {
@@ -106,10 +104,10 @@
     "uptimeWeek": "99.14%",
     "uptimeMonth": "98.35%",
     "uptimeYear": "99.08%",
-    "time": 923,
-    "timeDay": 1414,
-    "timeWeek": 1074,
-    "timeMonth": 1084,
+    "time": 922,
+    "timeDay": 1433,
+    "timeWeek": 1065,
+    "timeMonth": 1085,
     "timeYear": 951,
     "dailyMinutesDown": {
       "2025-05-20": 87,
@@ -134,18 +132,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.luschmar.ch.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "96.65%",
-    "uptimeDay": "93.96%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "96.65%",
-    "uptimeYear": "96.65%",
-    "time": 1215,
-    "timeDay": 1158,
-    "timeWeek": 1011,
-    "timeMonth": 1215,
-    "timeYear": 1215,
+    "uptime": "95.54%",
+    "uptimeDay": "77.15%",
+    "uptimeWeek": "96.74%",
+    "uptimeMonth": "95.54%",
+    "uptimeYear": "95.54%",
+    "time": 1201,
+    "timeDay": 1282,
+    "timeWeek": 1040,
+    "timeMonth": 1201,
+    "timeYear": 1201,
     "dailyMinutesDown": {
-      "2025-05-20": 87,
+      "2025-05-21": 113,
+      "2025-05-20": 216,
       "2025-05-10": 484,
       "2025-05-09": 126
     }
