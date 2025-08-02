@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.84%",
+    "uptimeYear": "97.87%",
     "time": 668,
-    "timeDay": 645,
-    "timeWeek": 458,
-    "timeMonth": 508,
-    "timeYear": 724,
+    "timeDay": 433,
+    "timeWeek": 468,
+    "timeMonth": 500,
+    "timeYear": 717,
     "dailyMinutesDown": {
       "2025-05-20": 87,
       "2025-05-12": 441,
@@ -42,8 +42,7 @@
       "2024-08-06": 767,
       "2024-08-05": 373,
       "2024-08-04": 435,
-      "2024-08-03": 544,
-      "2024-08-02": 653
+      "2024-08-03": 544
     }
   },
   {
@@ -56,12 +55,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.93%",
+    "uptimeYear": "97.96%",
     "time": 309,
-    "timeDay": 123,
-    "timeWeek": 108,
-    "timeMonth": 121,
-    "timeYear": 358,
+    "timeDay": 127,
+    "timeWeek": 112,
+    "timeMonth": 120,
+    "timeYear": 351,
     "dailyMinutesDown": {
       "2025-05-20": 87,
       "2025-05-10": 485,
@@ -87,8 +86,7 @@
       "2024-08-06": 767,
       "2024-08-05": 373,
       "2024-08-04": 435,
-      "2024-08-03": 544,
-      "2024-08-02": 653
+      "2024-08-03": 544
     }
   },
   {
@@ -103,9 +101,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.08%",
     "time": 907,
-    "timeDay": 461,
-    "timeWeek": 403,
-    "timeMonth": 811,
+    "timeDay": 596,
+    "timeWeek": 419,
+    "timeMonth": 813,
     "timeYear": 890,
     "dailyMinutesDown": {
       "2025-05-20": 87,
@@ -130,16 +128,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.luschmar.ch.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "96.69%",
+    "uptime": "96.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.69%",
-    "time": 680,
-    "timeDay": 537,
-    "timeWeek": 454,
-    "timeMonth": 458,
-    "timeYear": 680,
+    "uptimeYear": "96.72%",
+    "time": 678,
+    "timeDay": 430,
+    "timeWeek": 459,
+    "timeMonth": 455,
+    "timeYear": 678,
     "dailyMinutesDown": {
       "2025-06-01": 872,
       "2025-05-31": 299,
