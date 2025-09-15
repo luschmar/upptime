@@ -1,7 +1,7 @@
 url: https://traccar.luschmar.ch/api/server
-status: down
-code: 502
-responseTime: 3407
-lastUpdated: 2025-09-15T13:57:06.787Z
+status: up
+code: 200
+responseTime: 666
+lastUpdated: 2025-09-15T14:24:29.241Z
 startTime: 2024-01-16T20:33:23.248Z
 generator: Upptime <https://github.com/upptime/upptime>
