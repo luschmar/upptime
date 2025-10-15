@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "98.54%",
-    "time": 681,
-    "timeDay": 493,
-    "timeWeek": 538,
-    "timeMonth": 600,
+    "time": 682,
+    "timeDay": 679,
+    "timeWeek": 553,
+    "timeMonth": 608,
     "timeYear": 680,
     "dailyMinutesDown": {
       "2025-10-02": 30,
@@ -38,8 +38,7 @@
       "2024-11-24": 47,
       "2024-10-24": 26,
       "2024-10-22": 22,
-      "2024-10-19": 22,
-      "2024-10-15": 70
+      "2024-10-19": 22
     }
   },
   {
@@ -54,9 +53,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "98.64%",
     "time": 319,
-    "timeDay": 99,
-    "timeWeek": 126,
-    "timeMonth": 215,
+    "timeDay": 138,
+    "timeWeek": 122,
+    "timeMonth": 216,
     "timeYear": 308,
     "dailyMinutesDown": {
       "2025-10-02": 30,
@@ -79,8 +78,7 @@
       "2024-11-24": 46,
       "2024-10-24": 26,
       "2024-10-22": 22,
-      "2024-10-19": 22,
-      "2024-10-15": 70
+      "2024-10-19": 22
     }
   },
   {
@@ -95,10 +93,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "94.61%",
     "time": 1005,
-    "timeDay": 493,
-    "timeWeek": 719,
-    "timeMonth": 663,
-    "timeYear": 935,
+    "timeDay": 661,
+    "timeWeek": 738,
+    "timeMonth": 668,
+    "timeYear": 936,
     "dailyMinutesDown": {
       "2025-09-15": 27,
       "2025-09-09": 156,
@@ -133,8 +131,7 @@
       "2025-01-01": 499,
       "2024-12-28": 21,
       "2024-12-10": 34,
-      "2024-11-24": 46,
-      "2024-10-15": 70
+      "2024-11-24": 46
     }
   },
   {
@@ -143,15 +140,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.luschmar.ch.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "93.41%",
+    "uptime": "93.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.75%",
-    "uptimeYear": "93.41%",
+    "uptimeYear": "93.45%",
     "time": 705,
-    "timeDay": 508,
-    "timeWeek": 577,
-    "timeMonth": 627,
+    "timeDay": 819,
+    "timeWeek": 610,
+    "timeMonth": 638,
     "timeYear": 705,
     "dailyMinutesDown": {
       "2025-10-02": 888,
