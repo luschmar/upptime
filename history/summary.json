@@ -11,10 +11,10 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "98.55%",
     "time": 686,
-    "timeDay": 542,
-    "timeWeek": 530,
-    "timeMonth": 553,
-    "timeYear": 661,
+    "timeDay": 505,
+    "timeWeek": 508,
+    "timeMonth": 548,
+    "timeYear": 660,
     "dailyMinutesDown": {
       "2025-11-29": 28,
       "2025-11-28": 79,
@@ -36,8 +36,7 @@
       "2025-01-03": 1440,
       "2025-01-02": 1440,
       "2025-01-01": 500,
-      "2024-12-28": 22,
-      "2024-12-10": 34
+      "2024-12-28": 22
     }
   },
   {
@@ -52,9 +51,9 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "98.65%",
     "time": 315,
-    "timeDay": 98,
-    "timeWeek": 127,
-    "timeMonth": 130,
+    "timeDay": 119,
+    "timeWeek": 121,
+    "timeMonth": 129,
     "timeYear": 283,
     "dailyMinutesDown": {
       "2025-11-29": 28,
@@ -75,8 +74,7 @@
       "2025-01-03": 1440,
       "2025-01-02": 1440,
       "2025-01-01": 500,
-      "2024-12-28": 21,
-      "2024-12-10": 34
+      "2024-12-28": 21
     }
   },
   {
@@ -90,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "94.62%",
-    "time": 935,
-    "timeDay": 554,
-    "timeWeek": 560,
+    "time": 936,
+    "timeDay": 908,
+    "timeWeek": 606,
     "timeMonth": 545,
-    "timeYear": 916,
+    "timeYear": 908,
     "dailyMinutesDown": {
       "2025-11-29": 28,
       "2025-11-28": 56,
@@ -129,8 +127,7 @@
       "2025-01-03": 792,
       "2025-01-02": 1440,
       "2025-01-01": 499,
-      "2024-12-28": 21,
-      "2024-12-10": 34
+      "2024-12-28": 21
     }
   },
   {
@@ -139,15 +136,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.luschmar.ch.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "91.85%",
+    "uptime": "91.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "76.83%",
-    "uptimeYear": "91.85%",
+    "uptimeYear": "91.88%",
     "time": 673,
-    "timeDay": 394,
-    "timeWeek": 560,
-    "timeMonth": 575,
+    "timeDay": 621,
+    "timeWeek": 563,
+    "timeMonth": 569,
     "timeYear": 673,
     "dailyMinutesDown": {
       "2025-11-29": 28,
