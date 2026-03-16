@@ -11,10 +11,10 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "97.47%",
     "time": 653,
-    "timeDay": 527,
-    "timeWeek": 652,
-    "timeMonth": 656,
-    "timeYear": 618,
+    "timeDay": 517,
+    "timeWeek": 609,
+    "timeMonth": 654,
+    "timeYear": 617,
     "dailyMinutesDown": {
       "2026-02-18": 43,
       "2026-02-15": 1204,
@@ -39,8 +39,7 @@
       "2025-05-12": 441,
       "2025-05-11": 50,
       "2025-05-10": 485,
-      "2025-05-09": 169,
-      "2025-03-16": 51
+      "2025-05-09": 169
     }
   },
   {
@@ -56,7 +55,7 @@
     "uptimeYear": "97.56%",
     "time": 258,
     "timeDay": 121,
-    "timeWeek": 133,
+    "timeWeek": 129,
     "timeMonth": 134,
     "timeYear": 231,
     "dailyMinutesDown": {
@@ -81,8 +80,7 @@
       "2025-08-24": 65,
       "2025-05-20": 87,
       "2025-05-10": 485,
-      "2025-05-09": 181,
-      "2025-03-16": 51
+      "2025-05-09": 181
     }
   },
   {
@@ -91,18 +89,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/traccar.luschmar.ch.ico",
     "slug": "traccar",
     "status": "down",
-    "uptime": "92.04%",
+    "uptime": "92.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "83.50%",
-    "time": 873,
+    "uptimeYear": "83.44%",
+    "time": 874,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 901,
+    "timeYear": 902,
     "dailyMinutesDown": {
-      "2026-03-15": 1323,
+      "2026-03-16": 170,
+      "2026-03-15": 1440,
       "2026-03-14": 1440,
       "2026-03-13": 1440,
       "2026-03-12": 1440,
@@ -175,8 +174,7 @@
       "2025-08-12": 16,
       "2025-05-20": 87,
       "2025-05-10": 485,
-      "2025-05-09": 153,
-      "2025-03-16": 475
+      "2025-05-09": 153
     }
   },
   {
@@ -185,15 +183,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.luschmar.ch.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "90.94%",
-    "uptimeDay": "0.01%",
+    "uptime": "90.95%",
+    "uptimeDay": "19.95%",
     "uptimeWeek": "80.86%",
     "uptimeMonth": "91.26%",
-    "uptimeYear": "90.94%",
+    "uptimeYear": "90.95%",
     "time": 673,
-    "timeDay": 563,
-    "timeWeek": 701,
-    "timeMonth": 843,
+    "timeDay": 653,
+    "timeWeek": 691,
+    "timeMonth": 720,
     "timeYear": 673,
     "dailyMinutesDown": {
       "2026-03-15": 1322,
