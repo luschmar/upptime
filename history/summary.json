@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "97.55%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.17%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "76.45%",
-    "uptimeYear": "95.51%",
+    "uptimeYear": "95.59%",
     "time": 649,
-    "timeDay": 614,
-    "timeWeek": 677,
-    "timeMonth": 655,
-    "timeYear": 637,
+    "timeDay": 623,
+    "timeWeek": 678,
+    "timeMonth": 654,
+    "timeYear": 622,
     "dailyMinutesDown": {
       "2026-05-02": 1201,
       "2026-05-01": 1440,
@@ -45,8 +45,7 @@
       "2025-08-24": 103,
       "2025-05-20": 87,
       "2025-05-12": 441,
-      "2025-05-11": 50,
-      "2025-05-10": 485
+      "2025-05-11": 50
     }
   },
   {
@@ -57,14 +56,14 @@
     "status": "up",
     "uptime": "97.58%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.17%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "76.45%",
-    "uptimeYear": "95.61%",
-    "time": 247,
-    "timeDay": 477,
-    "timeWeek": 317,
-    "timeMonth": 189,
-    "timeYear": 223,
+    "uptimeYear": "95.68%",
+    "time": 248,
+    "timeDay": 580,
+    "timeWeek": 409,
+    "timeMonth": 208,
+    "timeYear": 201,
     "dailyMinutesDown": {
       "2026-05-02": 1201,
       "2026-05-01": 1440,
@@ -93,8 +92,7 @@
       "2025-09-08": 256,
       "2025-09-07": 15,
       "2025-08-24": 65,
-      "2025-05-20": 87,
-      "2025-05-10": 485
+      "2025-05-20": 87
     }
   },
   {
@@ -103,16 +101,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/traccar.luschmar.ch.ico",
     "slug": "traccar",
     "status": "up",
-    "uptime": "87.52%",
+    "uptime": "87.53%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.17%",
-    "uptimeMonth": "40.14%",
-    "uptimeYear": "71.96%",
-    "time": 857,
-    "timeDay": 618,
-    "timeWeek": 682,
-    "timeMonth": 726,
-    "timeYear": 921,
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "43.46%",
+    "uptimeYear": "72.03%",
+    "time": 856,
+    "timeDay": 533,
+    "timeWeek": 658,
+    "timeMonth": 715,
+    "timeYear": 894,
     "dailyMinutesDown": {
       "2026-05-02": 1201,
       "2026-05-01": 1440,
@@ -229,8 +227,7 @@
       "2025-08-22": 1440,
       "2025-08-21": 503,
       "2025-08-12": 16,
-      "2025-05-20": 87,
-      "2025-05-10": 485
+      "2025-05-20": 87
     }
   },
   {
@@ -239,16 +236,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.luschmar.ch.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "90.32%",
+    "uptime": "90.34%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.17%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "76.29%",
-    "uptimeYear": "90.25%",
+    "uptimeYear": "90.31%",
     "time": 677,
-    "timeDay": 853,
-    "timeWeek": 825,
-    "timeMonth": 726,
-    "timeYear": 679,
+    "timeDay": 590,
+    "timeWeek": 766,
+    "timeMonth": 728,
+    "timeYear": 664,
     "dailyMinutesDown": {
       "2026-05-02": 1201,
       "2026-05-01": 1440,
@@ -305,8 +302,7 @@
       "2025-05-31": 299,
       "2025-05-22": 696,
       "2025-05-21": 1440,
-      "2025-05-20": 216,
-      "2025-05-10": 484
+      "2025-05-20": 216
     }
   }
 ]
