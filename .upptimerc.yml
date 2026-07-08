@@ -11,6 +11,8 @@ sites:
     url: https://traccar.luschmar.ch/api/server
   - name: Blog
     url: https://blog.luschmar.ch
+  - name: Memos
+    url: https://memos.luschmar.ch/api/v1/instance/profile
 
 status-website:
   baseUrl: /upptime 
