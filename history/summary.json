@@ -4,17 +4,17 @@
     "url": "https://matrix.luschmar.ch/.well-known/matrix/server",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.luschmar.ch.ico",
     "slug": "federation-matrix-luschmar-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "97.49%",
-    "uptimeDay": "51.25%",
-    "uptimeWeek": "93.04%",
-    "uptimeMonth": "98.08%",
+    "uptimeDay": "50.77%",
+    "uptimeWeek": "92.97%",
+    "uptimeMonth": "98.06%",
     "uptimeYear": "95.15%",
-    "time": 829,
-    "timeDay": 14441,
-    "timeWeek": 5775,
-    "timeMonth": 4956,
-    "timeYear": 871,
+    "time": 894,
+    "timeDay": 18430,
+    "timeWeek": 8510,
+    "timeMonth": 6112,
+    "timeYear": 952,
     "dailyMinutesDown": {
       "2025-08-24": 103,
       "2025-09-07": 15,
@@ -47,7 +47,7 @@
       "2026-05-20": 1440,
       "2026-05-19": 225,
       "2026-06-13": 141,
-      "2026-07-12": 695,
+      "2026-07-12": 702,
       "2026-07-11": 7
     }
   },
@@ -56,17 +56,17 @@
     "url": "https://matrix.luschmar.ch/.well-known/matrix/client",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.luschmar.ch.ico",
     "slug": "client-matrix-luschmar-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "97.52%",
-    "uptimeDay": "47.33%",
-    "uptimeWeek": "92.48%",
-    "uptimeMonth": "97.95%",
+    "uptimeDay": "46.96%",
+    "uptimeWeek": "92.42%",
+    "uptimeMonth": "97.94%",
     "uptimeYear": "95.14%",
-    "time": 352,
-    "timeDay": 631,
-    "timeWeek": 485,
-    "timeMonth": 2857,
-    "timeYear": 356,
+    "time": 416,
+    "timeDay": 15517,
+    "timeWeek": 4758,
+    "timeMonth": 4235,
+    "timeYear": 439,
     "dailyMinutesDown": {
       "2025-08-24": 65,
       "2025-09-07": 15,
@@ -99,7 +99,7 @@
       "2026-05-20": 1440,
       "2026-05-19": 225,
       "2026-06-13": 139,
-      "2026-07-12": 758
+      "2026-07-12": 763
     }
   },
   {
@@ -108,11 +108,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/traccar.luschmar.ch.ico",
     "slug": "traccar",
     "status": "down",
-    "uptime": "88.38%",
-    "uptimeDay": "85.01%",
-    "uptimeWeek": "97.86%",
-    "uptimeMonth": "99.19%",
-    "uptimeYear": "72.03%",
+    "uptime": "88.37%",
+    "uptimeDay": "78.12%",
+    "uptimeWeek": "96.87%",
+    "uptimeMonth": "98.96%",
+    "uptimeYear": "72.01%",
     "time": 1047,
     "timeDay": 15651,
     "timeWeek": 4904,
@@ -236,7 +236,7 @@
       "2026-04-25": 473,
       "2026-06-14": 0,
       "2026-06-13": 138,
-      "2026-07-12": 216
+      "2026-07-12": 315
     }
   },
   {
@@ -245,11 +245,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.luschmar.ch.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "87.43%",
-    "uptimeDay": "85.13%",
-    "uptimeWeek": "97.88%",
+    "uptime": "87.42%",
+    "uptimeDay": "78.23%",
+    "uptimeWeek": "96.89%",
     "uptimeMonth": "81.83%",
-    "uptimeYear": "85.91%",
+    "uptimeYear": "85.89%",
     "time": 807,
     "timeDay": 15429,
     "timeWeek": 4943,
@@ -327,7 +327,7 @@
       "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 256,
-      "2026-07-12": 214
+      "2026-07-12": 313
     }
   },
   {
@@ -336,18 +336,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/memos.luschmar.ch.ico",
     "slug": "memos",
     "status": "down",
-    "uptime": "96.34%",
-    "uptimeDay": "85.24%",
-    "uptimeWeek": "96.34%",
-    "uptimeMonth": "96.34%",
-    "uptimeYear": "96.34%",
+    "uptime": "94.73%",
+    "uptimeDay": "78.35%",
+    "uptimeWeek": "94.73%",
+    "uptimeMonth": "94.73%",
+    "uptimeYear": "94.73%",
     "time": 5581,
     "timeDay": 15491,
     "timeWeek": 5581,
     "timeMonth": 5581,
     "timeYear": 5581,
     "dailyMinutesDown": {
-      "2026-07-12": 212
+      "2026-07-12": 312
     }
   }
 ]
