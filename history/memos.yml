@@ -1,7 +1,7 @@
 url: https://memos.luschmar.ch/api/v1/instance/profile
-status: up
-code: 200
-responseTime: 523
-lastUpdated: 2026-07-15T23:50:52.965Z
+status: down
+code: 504
+responseTime: 30683
+lastUpdated: 2026-07-16T11:22:19.714Z
 startTime: 2026-07-08T11:52:24.985Z
 generator: Upptime <https://github.com/upptime/upptime>
