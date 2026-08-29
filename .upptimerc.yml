@@ -13,7 +13,9 @@ sites:
     url: https://blog.luschmar.ch
   - name: Memos
     url: https://memos.luschmar.ch/api/v1/instance/profile
-
+  - name: Auth
+    url: https://auth.luschmar.ch/health
+    
 status-website:
   baseUrl: /upptime 
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
