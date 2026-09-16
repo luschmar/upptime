@@ -1,7 +1,7 @@
 url: https://auth.luschmar.ch/health
-status: down
-code: 502
-responseTime: 3757
-lastUpdated: 2026-09-16T12:30:20.712Z
+status: up
+code: 200
+responseTime: 828
+lastUpdated: 2026-09-16T20:12:59.597Z
 startTime: 2026-08-29T15:04:14.959Z
 generator: Upptime <https://github.com/upptime/upptime>
